@@ -1,0 +1,45 @@
+Date: 30/1/2025
+Time: 19:38
+Phone Number: +40724574163
+Message: Temp: 5.2 Pressure: 1024.0 Wind speed: 6.1
+--------------------
+Date: 30/1/2025
+Time: 19:39
+Phone Number: +40724574163
+Message: Temp: 7.0 Pressure: 1022.0 Wind speed: 14.8
+--------------------
+Date: 30/1/2025
+Time: 19:39
+Phone Number: +40724574163
+Message: Temp: 9.4 Pressure: 1021.0 Wind speed: 3.6
+--------------------
+Date: 30/1/2025
+Time: 19:39
+Phone Number: +40724574163
+Message: Temp: 2.4 Pressure: 1008.0 Wind speed: 9.7
+--------------------
+Date: 30/1/2025
+Time: 19:43
+Phone Number: +40724574163
+Message: Temp: 5.2 Pressure: 1024.0 Wind speed: 6.1
+--------------------
+Date: 30/1/2025
+Time: 19:43
+Phone Number: +40724574163
+Message: Temp: 7.0 Pressure: 1022.0 Wind speed: 14.8
+--------------------
+Date: 30/1/2025
+Time: 19:44
+Phone Number: +40724574163
+Message: Temp: 9.4 Pressure: 1021.0 Wind speed: 3.6
+--------------------
+Date: 30/1/2025
+Time: 19:44
+Phone Number: +40724574163
+Message: Temp: 2.4 Pressure: 1008.0 Wind speed: 9.7
+--------------------
+Date: 30/1/2025
+Time: 20:8
+Phone Number: +40724574163
+Message: Temp: 5.2 Pressure: 1024.0 Wind speed: 4.7
+--------------------
