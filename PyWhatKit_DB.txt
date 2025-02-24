@@ -43,3 +43,13 @@ Time: 20:8
 Phone Number: +40724574163
 Message: Temp: 5.2 Pressure: 1024.0 Wind speed: 4.7
 --------------------
+Date: 24/2/2025
+Time: 21:7
+Phone Number: +40724574163
+Message: Temp: 9.1 Pressure: 1012.0 Wind speed: 16.2
+--------------------
+Date: 24/2/2025
+Time: 21:20
+Phone Number: +40724574163
+Message: Temp: 9.1 Pressure: 1013.0 Wind speed: 16.2
+--------------------

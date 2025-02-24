@@ -2,6 +2,8 @@
 # avem un config si daca acele valori sunt depasite sa ne dea o notificare
 # notificarea va fi ori pe notification plyer or cu whatsapp
 # prima noastra interfata grafica cu gradio
+# with statements sunt context managers
+
 import json
 import os
 import time
@@ -9,8 +11,6 @@ import pywhatkit as wapp
 from plyer import notification
 import requests
 
-
-# with statement este context manager
 def read_config(path: str = "config.json"):
     try:
         with open(path, "r") as f:
